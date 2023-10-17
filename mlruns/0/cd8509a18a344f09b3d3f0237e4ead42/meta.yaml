@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kiran/Desktop/Python/MLOps/End-to-end-ML-Project-with-MLflow/mlruns/0/cd8509a18a344f09b3d3f0237e4ead42/artifacts
+end_time: 1697566558905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd8509a18a344f09b3d3f0237e4ead42
+run_name: gaudy-trout-334
+run_uuid: cd8509a18a344f09b3d3f0237e4ead42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697566539227
+status: 3
+tags: []
+user_id: Kiran

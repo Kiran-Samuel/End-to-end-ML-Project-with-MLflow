@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kiran/Desktop/Python/MLOps/End-to-end-ML-Project-with-MLflow/mlruns/0/c4b01384cd6146779a9c3fe944cbccb1/artifacts
+end_time: 1697546928269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4b01384cd6146779a9c3fe944cbccb1
+run_name: burly-skunk-948
+run_uuid: c4b01384cd6146779a9c3fe944cbccb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697546863249
+status: 3
+tags: []
+user_id: Kiran
