@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kiran/Desktop/Python/MLOps/End-to-end-ML-Project-with-MLflow/mlruns/0/6ff6c5b010374f9bbb8307135cd08af3/artifacts
+end_time: 1697618969110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ff6c5b010374f9bbb8307135cd08af3
+run_name: awesome-flea-715
+run_uuid: 6ff6c5b010374f9bbb8307135cd08af3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697618917390
+status: 3
+tags: []
+user_id: Kiran
